@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '41204'
     url: http://www.gutenberg.org/2009/agents/41204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41493#The-Quarterly-of-the-Oregon-Historical-Society-Vol.-IVMarch-1903-December-1903
 gutenberg_issued: '2012-11-26'
 gutenberg_type: Text
 identifiers:
