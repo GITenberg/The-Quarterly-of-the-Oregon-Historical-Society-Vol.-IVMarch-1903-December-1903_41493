@@ -1,0 +1,37 @@
+_repo: The-Quarterly-of-the-Oregon-Historical-Society-Vol.-IVMarch-1903-December-1903_41493
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Oregon Historical Society
+    alias: Oregon Historical Society, Portland
+    gutenberg_agent_id: '40627'
+    url: http://www.gutenberg.org/2009/agents/40627
+  editor:
+    agent_name: Young, Frederic G.
+    aliases:
+    - Young, Frederic George
+    - Young, F. G. (Frederic George)
+    birthdate: 1858
+    deathdate: 1929
+    gutenberg_agent_id: '41204'
+    url: http://www.gutenberg.org/2009/agents/41204
+description: ''
+gutenberg_issued: '2012-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41493'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Local history -- Oregon -- Periodicals'
+- !lcsh 'Oregon -- History -- Periodicals'
+- !lcc 'F850.5'
+title: 'The Quarterly of the Oregon Historical Society, Vol. IV
+
+  March, 1903-December, 1903'
+url: http://www.gutenberg.org/ebooks/41493
